@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmashTheGreen</string>
+    <string name="server_ip">http://192.168.178.34:4999</string>
+    <string name="login">/api/login</string>
+    <string name="update_times">/api/update/times</string>
+    <string name="server_connectivity">/api/connectivity</string>
+</resources>

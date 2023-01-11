@@ -1,0 +1,13 @@
+
+<animation-list android:id="@+id/selected"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/soupload1" android:duration="150" />
+    <item android:drawable="@drawable/soupload2" android:duration="150" />
+    <item android:drawable="@drawable/soupload3" android:duration="150" />
+    <item android:drawable="@drawable/soupload4" android:duration="150" />
+    <item android:drawable="@drawable/soupload5" android:duration="150" />
+    <item android:drawable="@drawable/soupload6" android:duration="150" />
+    <item android:drawable="@drawable/soupload7" android:duration="150" />
+    <item android:drawable="@drawable/soupload8" android:duration="150" />
+</animation-list>
