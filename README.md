@@ -1,3 +1,3 @@
 # SmashTheGreen
 
-A Game for Android
+A game for Android written in Kotlin.
